@@ -1,0 +1,72 @@
+<head>>
+    
+    <style>
+
+    
+        h1 {
+            text-align: center;
+        }
+
+        h2 {
+            font-size: larger;
+            font-weight: bold;
+        }
+
+        p1 {
+            color:red;
+
+        }
+
+        p2 {
+            color: blue;
+        }
+
+        p3 { 
+            color: green;
+        }
+
+        p4 {
+            font-size:x-large;
+        }
+
+        p5 {
+            font-size:x-small;
+        }
+
+        p6 {
+            text-align:center;
+        }
+
+        p7 { 
+            font-weight: bold;
+        }
+
+        p8 {
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+        }
+
+        p9 {font-weight: bold;
+            font-size: large;
+            color: orange;
+
+        }
+
+        p.styledFont{
+            font-weight: bold;
+            font-size: medium;
+            color: green;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+
+        }
+
+        img {
+            padding: 10px;
+            border: 10px;
+            background-color: orange;
+
+        }
+        
+    
+    </style>
+
+</head>

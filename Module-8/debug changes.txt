@@ -1,0 +1,12 @@
+Changes:
+
+HTML File:
+
+Line 19: <h1></h1> added around title to show heading in big letters
+Line 50: <> added around whole line to make image link work. 
+Line 43: Added 2nd link to make hyperlink work, structured it like Grumpy Cat file link. 
+Line 85-86: Corrected a little text to match Grumpy Cat file
+Line 114: fixed javascript link by changing .js file name. 
+Line 73-77: Add li around each list item in order to make them a numbered list.
+Lines 90-92: Corrected button names, added parenthesis in .js file too around "orange"
+Added parenthesis around the word "click" in .js file to make shrink/grow function work

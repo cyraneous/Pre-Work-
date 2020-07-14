@@ -1,0 +1,8 @@
+Changes:
+
+HTML File:
+
+Line 19: <h1></h1> added around title to show heading in big letters
+Line 50: <> added around whole line to make image link work. 
+Line 43: Added 2nd link to make hyperlink work, structured it like Grumpy Cat file link. 
+Line 85-86: Corrected a little text to match Grumpy Cat file
